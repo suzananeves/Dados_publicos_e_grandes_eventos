@@ -20,4 +20,4 @@ A Dashboard pode ser vista [aqui](https://lookerstudio.google.com/s/uDBfSS4JgSI)
 
 Para acessar a Dashboard, é necessário estar logado com a conta Google e ter acesso aos dados. O tutorial para acessar os dados está [aqui](https://docs.dados.rio/tutoriais/como-acessar-dados/#como-criar-uma-conta-na-gcp).
 
-Caso não queira logar, pode ver o vídeo do funcionamento da Dashboard [aqui](<link-do-seu-video>).
+Caso não queira logar, pode ver o vídeo do funcionamento da Dashboard [aqui](https://drive.google.com/file/d/1yQrO9BoO38MzK80ZzXSU_EO25dJXulbq/view?usp=drive_link).
